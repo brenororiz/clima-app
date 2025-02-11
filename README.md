@@ -65,7 +65,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 5. Abra um Pull Request explicando suas mudanças.
 
 # 🌐 Links Úteis
-API Open-Meteo : https://open-meteo.com
+API Open-Meteo : https://open-meteo.com  
 GitHub do Projeto : https://github.com/seu-usuario/clima-app
 
 # 📜 Licença
