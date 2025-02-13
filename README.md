@@ -36,7 +36,7 @@ Clique em "Buscar" para consultar as informações climáticas.
 Aguarde alguns segundos enquanto os dados são carregados.  
 As informações climáticas serão exibidas com animações suaves.  
 
-📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 ```
 /clima-app
     ├── index.php          # Página principal com formulário e lógica PHP
